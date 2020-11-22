@@ -1,5 +1,5 @@
 # JogoDaCapital
-  Jogo da Capital - Desenvolvimento de Aplicativo Moveis - UFPR  
+  Jogo da Capital - Desenvolvimento de Aplicativos Moveis DS151T - UFPR  
   
   Desenvolvido por: 
   
